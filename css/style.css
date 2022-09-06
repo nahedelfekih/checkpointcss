@@ -1,0 +1,36 @@
+li{
+    color: blue;
+    font-size: 40px;
+    display: inline-block;
+    text-align: center;
+}
+div {
+    text-align: center;
+     background-color: whitesmoke;
+
+}
+body {
+background-color: whitesmoke;
+text-align: center;
+}
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifs;
+    font-size: larger;
+    color: rgb(19, 19, 105);
+    display: grid;
+    text-decoration: double;
+}
+h2 {
+    color: black;
+    text-decoration: dotted;
+    font-size: x-large ;
+
+}
+ul { 
+    text-align: center;
+    color: black;
+}
+iframe { 
+    color: aliceblue;
+}
